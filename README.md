@@ -1,3 +1,4 @@
+<img width="1834" alt="Make your README" src="https://github.com/Dannansilva/Dannansilva/assets/118449317/695deec0-f8d6-4356-ae08-5c11eec80732"/>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Dannansilva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
