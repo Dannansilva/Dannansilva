@@ -1,14 +1,16 @@
 <img width="1834" alt="Make your README" src="https://github.com/Dannansilva/Dannansilva/assets/118449317/695deec0-f8d6-4356-ae08-5c11eec80732"/>
 <hr/>
+
 <div align="center">
     <img width="534" alt="Make your README" src="https://github.com/Dannansilva/Dannansilva/assets/118449317/e32d3569-a576-4cdf-920c-b26c582725e1"/>
 </div>
 
  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannansilva&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Dannansilva&theme=highcontrast&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannansilva&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Dannansilva&theme=highcontrast&hide_border=true" height="200" />
+      
  </div>
  <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannansilva&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannansilva&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200" />
 </div><be>
  
 <div align="center">
